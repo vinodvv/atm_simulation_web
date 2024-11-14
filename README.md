@@ -12,4 +12,12 @@ Here is how the program works:
 
 * The program calculates the updated balance and displays.
 
+## Screenshots
+
 ![alt text](image.png)
+
+* Showing balance amount.
+![alt text](image-1.png)
+
+* Showing prompt for deposit money
+![alt text](image-2.png)
