@@ -11,3 +11,5 @@ Here is how the program works:
 * The user clicks an option button (e.g., deopist money), follow message box prompt (e.g., enters a deposit amount).
 
 * The program calculates the updated balance and displays.
+
+![alt text](image.png)
